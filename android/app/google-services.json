@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738718278936",
+    "project_id": "lifeline-3d735",
+    "storage_bucket": "lifeline-3d735.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738718278936:android:96d75d419a2e26664eaa6d",
+        "android_client_info": {
+          "package_name": "com.lifeline.latihan_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcDpMWDnY_RIFfplAnYl4j3BfCSokM-II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
